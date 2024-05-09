@@ -1,7 +1,7 @@
 # MONTE CARLO CONTROL ALGORITHM
 
 ## AIM
-Write the experiment AIM.
+To develop a Python program to find the optimal policy for the given RL environment using SARSA-Learning and compare the state values with the Monte Carlo method.
 
 ## PROBLEM STATEMENT
 The FrozenLake environment in OpenAI Gym is a gridworld problem that challenges reinforcement learning agents to navigate a slippery terrain to reach a goal state while avoiding hazards. Note that the environment is closed with a fence, so the agent cannot leave the gridworld.
